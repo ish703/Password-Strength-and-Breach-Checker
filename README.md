@@ -1,4 +1,5 @@
 🔐 Password Strength & Breach Checker (Python)
+
 Passwords are the first and most important layer of security for protecting our digital information. Every year, millions of accounts get hacked because people continue to use weak, easy-to-guess, or breached passwords. Attackers use automated tools to crack simple passwords within seconds. Because of this, it has become essential to use strong, complex, and unique passwords for every account.
 
 This project Password Strength & Breach Checker — is designed to help users understand the security level of their password before they use it. The tool analyzes the password in real-time and provides immediate feedback. It checks for password length, uppercase letters, lowercase letters, numbers, and special characters. It also warns the user if the password is too common or predictable.
